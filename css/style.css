@@ -5,7 +5,7 @@ html {
     animation: gradient 15s ease infinite;
 }
 body{
-magin:20px;
+margin:20px;
 }
 @keyframes gradient {
     0% {
