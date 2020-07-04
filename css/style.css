@@ -1,4 +1,5 @@
-html {
+/* html */
+ body{
 
     background: linear-gradient(-45deg, #ee3224, #e73c7e, #23a6d5, #23d5ab);
     background-size: 400% 400%;
@@ -16,7 +17,7 @@ html {
         background-position: 0% 50%;
     }
 }
-body{
+/* body{
 margin:30px;
 }
 .box{
@@ -104,4 +105,4 @@ margin:30px;
 	}
      body{
 	 background:#377E80;
-		}
+		} */
