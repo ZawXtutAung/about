@@ -17,6 +17,7 @@
         background-position: 0% 50%;
     }
 }
+<<<<<<< HEAD
 /* body{
 margin:30px;
 }
@@ -63,28 +64,11 @@ margin:30px;
 	.middiv{
 		 margin-top: 3px;
 		}
+=======
+>>>>>>> 7206d10cfc576b293c94f785d8a083713b8c6ce8
 
-	.hname{
-	color: #ffff;
-      }
-             p{
-	color: #EDDC10;
-       }
-	.imgv{
-	width: 150px;
-	height: 150px;
-	margin: auto;
-	padding: auto;
-	display: block;
-	}
-	.navbar {
-        background:#6ab446;
-       }
-    ul {
-      list-style-type: none;
-      margin: 0;
-      padding: 0;
 
+<<<<<<< HEAD
       }
 	li {
       display: inline;
@@ -106,3 +90,6 @@ margin:30px;
      body{
 	 background:#377E80;
 		} */
+=======
+	
+>>>>>>> 7206d10cfc576b293c94f785d8a083713b8c6ce8
