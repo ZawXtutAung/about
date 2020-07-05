@@ -1,27 +1,8 @@
-/* html */
- body{
+body{
 
     background: linear-gradient(-45deg, #ee3224, #e73c7e, #23a6d5, #23d5ab);
     background-size: 400% 400%;
     animation: gradient 15s ease infinite;
-}
-div img{
-  width: 200px;
-  margin: 20px;
-}
-/* .secdiv{
-  background: cyan;
-} */
-.diva{
-  background: #fff;
-}
-.divb{
-  width: 100%;
-  background: #ff88;
-}
-.divc{
-  width: 100%;
-  background: #ff00;
 }
 @keyframes gradient {
     0% {
@@ -33,4 +14,11 @@ div img{
     100% {
         background-position: 0% 50%;
     }
+}
+divname{
+    background: #0c5460;
+}
+header{
+    height: 100px;
+    background: red;
 }
